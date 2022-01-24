@@ -1,0 +1,1 @@
+Creates simple and anvanced randomly chosen NFTs.
